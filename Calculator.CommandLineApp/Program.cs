@@ -10,6 +10,7 @@ internal class Program
     {
         CalcLib.Calculator.Calculation(args);
 
+
         /*
         if (args.Length >= 3)
         {
